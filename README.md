@@ -1,4 +1,4 @@
-# milk-pasteurization-prediction
+# A Deep Learning-based Milk Pasteurization Quality Prediction System"
 This repository is a part from the paper entitled "A Deep Learning-based Milk Pasteurization Quality Prediction System"
 
 **Abstract:**
