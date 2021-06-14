@@ -6,6 +6,8 @@ Quality of product is always one of the top concerns in manufacturing and produc
 
 **Keywords:** Pasteurization quality prediction, artificial neural network, deep learning, flexible predictive system. 
 
+
+
 ![Alt text](/paper_concept1.png?raw=true "Milk pasteurization quality prediction using MLP")
 
 _Milk pasteurization quality prediction using MLP_
@@ -14,3 +16,8 @@ _Milk pasteurization quality prediction using MLP_
 ![Alt text](/paper_concept2.png?raw=true "Milk pasteurizer operating recommendation system")
 
 _Milk pasteurizer operating recommendation system_
+
+
+![Alt text](/SystemUI.jpg?raw=true "System GUI")
+
+_System graphic user interface_
